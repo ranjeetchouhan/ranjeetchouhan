@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ranjeet Chouhan</h1>
 <h3 align="center">I am a Android Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-ranu&label=Profile%20views&color=0e75b6&style=flat" alt="im-ranu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeetchouhan&label=Profile%20views&color=0e75b6&style=flat" alt="im-ranu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-ranu" alt="im-ranu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjeetchouhan" alt="ranjeetchouhan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ranjeetluhar" target="blank"><img src="https://img.shields.io/twitter/follow/ranjeetluhar?logo=twitter&style=for-the-badge" alt="ranjeetluhar" /></a> </p>
 
