@@ -1,5 +1,5 @@
 # 💫 About Me:
-Google Certified Associate Android Developer. Currently working as a Software Developer at Dotsquares Technologies, Jaipur
+Google Certified Associate Android Developer. SDE-2 @ Porter(https://www.porter.in) (Contractual)
 
 
 ## 🌐 Socials:
