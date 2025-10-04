@@ -1,6 +1,6 @@
 # 💫 About Me:
-Google Certified Associate Android Developer. SDE-2 @ Porter(https://www.porter.in) (Contractual)
-
+Android Engineer - SDE-2 @ Porter(https://www.porter.in)
+In love with mobile apps 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/im-ranu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8209962/ranjeet-chouhan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/RanjeetLuhar) 
