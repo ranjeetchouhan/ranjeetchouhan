@@ -1,18 +1,23 @@
-Android Engineer (SDE-2) @ Porter
-📱 Android · Kotlin · Jetpack Compose · Clean Architecture
-📍 India
+# 👨‍💻 Android Engineer (SDE-2) @ Porter
 
-About
+📱 **Android** · **Kotlin** · **Jetpack Compose** · **Clean Architecture**  
+📍 **India**
 
-Mobile engineer focused on building scalable, maintainable Android applications.
-Strong experience with Jetpack Compose, architecture migrations, and large-scale consumer apps.
+---
 
-I value clean code, performance, and developer experience.
+## 🚀 About
 
-Links
+Mobile engineer focused on building **scalable, maintainable Android applications**.  
+Strong experience with **Jetpack Compose**, **architecture migrations**, and **large-scale consumer apps**.
 
-LinkedIn: https://www.linkedin.com/im-ranu
+I value **clean code**, **performance**, and **developer experience**.
 
-Stack Overflow: https://stackoverflow.com/users/8209962
+---
 
-Twitter: https://twitter.com/RanjeetLuhar
+## 🔗 Links
+
+- 💼 **LinkedIn**: [linkedin.com/im-ranu](https://www.linkedin.com/im-ranu)  
+- 🧠 **Stack Overflow**: [stackoverflow.com/users/8209962](https://stackoverflow.com/users/8209962)  
+- 🐦 **Twitter (X)**: [@RanjeetLuhar](https://twitter.com/RanjeetLuhar)
+
+---
